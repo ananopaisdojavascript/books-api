@@ -26,3 +26,201 @@
 2024-03-21T23:52:27.424Z [books] info - Servidor funcionando na porta 5678
 2024-03-21T23:54:11.789Z [books] info - Servidor funcionando na porta 5678
 2024-03-21T23:56:08.696Z [books] info - Servidor funcionando na porta 5678
+2024-03-21T23:59:11.523Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:01:34.176Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:02:09.971Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:03:02.855Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:03:21.505Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:03:37.960Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:04:28.084Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:05:30.155Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:06:02.715Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:06:38.555Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:07:28.592Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:30:21.938Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:32:46.843Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:34:40.492Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:35:15.942Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:35:42.472Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:38:04.781Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:39:20.396Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:40:12.671Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:40:18.691Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:41:16.800Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:42:03.260Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:42:25.460Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:43:25.538Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:44:29.142Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:53:59.264Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:54:52.417Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:56:52.426Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:57:21.589Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T00:58:42.042Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:02:52.861Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:05:37.232Z [books] error - GET  - column "created_at" does not exist
+2024-03-22T01:09:14.622Z [books] error - GET  - column "created_at" does not exist
+2024-03-22T01:10:59.403Z [books] error - POST  - column "created_at" of relation "clientes" does not exist
+2024-03-22T01:21:03.713Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:21:09.874Z [books] info - POST /cliente - {"clienteId":1,"nome":"Giovana Betina Barbosa","email":"giovanabetinabarbosa@gmail.com","senha":"ZjRxDsNQt4","telefone":"27998835914","endereco":"Rua Tancredo Neves 639, Serra-ES"}
+2024-03-22T01:22:36.285Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:24:15.949Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:24:47.244Z [books] info - GET /cliente
+2024-03-22T01:26:36.705Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:26:55.041Z [books] info - GET /cliente/1
+2024-03-22T01:29:04.741Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:29:28.298Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:34:51.977Z [books] info - GET /cliente/1
+2024-03-22T01:35:00.441Z [books] info - GET /cliente
+2024-03-22T01:35:26.771Z [books] error - PUT  - WHERE parameter "clientId" has invalid "undefined" value
+2024-03-22T01:37:21.621Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:37:29.341Z [books] info - PUT /cliente - {"clienteId":2,"nome":"Emily R. Melissa Novaes","email":"emily_novaes@yool.com.br","senha":"nYS0UcIIQa","telefone":"86999830953","endereco":"Rua Clementino Reis, 782, Teresina-PI"}
+2024-03-22T01:37:52.436Z [books] info - GET /cliente
+2024-03-22T01:42:56.000Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:44:43.757Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:45:15.126Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T01:45:37.298Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T21:15:18.272Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T21:16:16.592Z [books] error - GET  - 
+2024-03-22T21:16:56.146Z [books] error - GET  - 
+2024-03-22T21:16:56.165Z [books] error - GET  - 
+2024-03-22T21:16:57.514Z [books] error - GET  - 
+2024-03-22T21:17:21.083Z [books] error - GET  - 
+2024-03-22T21:20:22.150Z [books] info - GET /cliente
+2024-03-22T21:20:24.009Z [books] info - GET /cliente
+2024-03-22T21:21:07.622Z [books] info - GET /cliente
+2024-03-22T21:21:07.642Z [books] info - GET /cliente/1
+2024-03-22T21:21:28.881Z [books] info - GET /cliente
+2024-03-22T21:23:11.052Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T21:23:30.503Z [books] info - GET /cliente
+2024-03-22T21:23:30.519Z [books] info - GET /cliente/1
+2024-03-22T21:27:14.896Z [books] info - POST /cliente - {"clienteId":3,"nome":"Emily R. Melissa Novaes","email":"emily_novaes@yool.com.br","senha":"nYS0UcIIQa","telefone":"86999830953","endereco":"Rua Clementino Reis, 782, Teresina-PI"}
+2024-03-22T21:27:22.157Z [books] info - GET /cliente
+2024-03-22T21:27:57.805Z [books] info - GET /cliente
+2024-03-22T21:27:57.819Z [books] info - GET /cliente/1
+2024-03-22T21:29:25.549Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T21:32:11.494Z [books] info - POST /cliente - {"clienteId":4,"nome":"Giovana Betina Barbosa","email":"giovanabetinabarbosa@gmail.com","senha":"ZjRxDsNQt4","telefone":"27998835914","endereco":"Rua Tancredo Neves 639, Serra-ES"}
+2024-03-22T21:32:16.182Z [books] info - GET /cliente
+2024-03-22T21:34:20.371Z [books] info - GET /cliente
+2024-03-22T21:34:25.583Z [books] info - POST /cliente - {"clienteId":5,"nome":"Gael Geraldo da Conceição","email":"ggconceicao@gmail.com","senha":"MRalkmBOJq","telefone":"69994235684","endereco":"Rua Modigliani 148, Porto Velho-RO"}
+2024-03-22T21:34:29.117Z [books] info - GET /cliente
+2024-03-22T21:35:39.479Z [books] info - POST /cliente - {"clienteId":6,"nome":"Francisca Isabel Vieira","email":"franvieira@gmail.com","senha":"kW1bnjci70","telefone":"85827093319","endereco":"Rua Dom Henrique 182, São Luís-MA"}
+2024-03-22T21:36:44.288Z [books] info - POST /cliente - {"clienteId":7,"nome":"Sarah Carolina da Conceição","email":"ssarahcarolinadaconceicao@gmail.com","senha":"54bOsJjloe","telefone":"71387384988","endereco":"Rua Poeta Evaristo de Souza 460, Natal-RN"}
+2024-03-22T21:36:48.280Z [books] info - GET /cliente
+2024-03-22T21:48:46.223Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T23:28:39.623Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T23:35:32.760Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T23:38:07.007Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T23:44:19.678Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T23:54:43.195Z [books] info - Servidor funcionando na porta 5678
+2024-03-22T23:55:47.290Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:24:55.940Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:25:05.950Z [books] info - GET /cliente
+2024-03-23T00:27:57.438Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:28:03.377Z [books] info - GET /cliente
+2024-03-23T00:28:03.407Z [books] info - GET /cliente/4
+2024-03-23T00:28:47.683Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:28:53.994Z [books] info - GET /cliente
+2024-03-23T00:28:54.050Z [books] info - GET /cliente/4
+2024-03-23T00:32:15.682Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:33:00.210Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:36:45.233Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:37:27.076Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:37:41.054Z [books] info - POST /cliente - {"clienteId":8,"nome":"Tomás Kaique Ricardo Peixoto","email":"tomas_peixoto@ltecno.com.br","senha":"pD67mYSDH9","telefone":"22984311722","endereco":"Rua Olívia Lopes, 293, Cabo Frio-RJ"}
+2024-03-23T00:37:41.085Z [books] info - GET /cliente
+2024-03-23T00:37:41.108Z [books] info - GET /cliente/4
+2024-03-23T00:50:17.669Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:51:45.220Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:52:01.149Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:52:08.865Z [books] info - POST /cliente - {"clienteId":9,"nome":"Tomás Kaique Ricardo Peixoto","email":"tomas_peixoto@ltecno.com.br","senha":"pD67mYSDH9","telefone":"22984311722","endereco":"Rua Olívia Lopes, 293, Cabo Frio-RJ"}
+2024-03-23T00:52:08.900Z [books] info - GET /cliente
+2024-03-23T00:52:08.928Z [books] info - GET /cliente/4
+2024-03-23T00:52:30.780Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T00:52:38.733Z [books] info - POST /cliente - {"clienteId":10,"nome":"Tomás Kaique Ricardo Peixoto","email":"tomas_peixoto@ltecno.com.br","senha":"pD67mYSDH9","telefone":"22984311722","endereco":"Rua Olívia Lopes, 293, Cabo Frio-RJ"}
+2024-03-23T00:52:38.768Z [books] info - GET /cliente
+2024-03-23T00:52:38.793Z [books] info - GET /cliente/4
+2024-03-23T00:52:59.809Z [books] info - GET /cliente
+2024-03-23T01:15:09.395Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T01:15:26.870Z [books] info - GET /cliente
+2024-03-23T01:15:26.916Z [books] info - GET /cliente/4
+2024-03-23T01:16:00.411Z [books] info - GET /cliente
+2024-03-23T01:20:17.256Z [books] info - Servidor funcionando na porta 5678
+2024-03-23T01:21:17.153Z [books] info - GET /cliente
+2024-03-24T11:58:57.913Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:10:52.670Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:11:00.337Z [books] error - GET  - 
+2024-03-24T12:11:30.738Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:35:00.836Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:36:34.538Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:36:40.825Z [books] error - GET  - 
+2024-03-24T12:40:02.146Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:41:10.104Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:41:25.358Z [books] error - GET  - 
+2024-03-24T12:41:25.383Z [books] error - GET  - 
+2024-03-24T12:41:59.306Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:42:06.029Z [books] error - GET  - 
+2024-03-24T12:42:06.056Z [books] error - GET  - 
+2024-03-24T12:42:53.645Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:43:31.520Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:43:53.061Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:44:00.340Z [books] error - GET  - 
+2024-03-24T12:44:00.370Z [books] error - GET  - 
+2024-03-24T12:45:13.491Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:50:24.471Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:52:10.256Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:53:16.634Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:54:25.978Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:54:37.141Z [books] error - GET  - 
+2024-03-24T12:54:37.168Z [books] error - GET  - 
+2024-03-24T12:54:37.242Z [books] error - POST  - 
+2024-03-24T12:55:13.343Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:55:19.423Z [books] error - GET  - 
+2024-03-24T12:55:19.451Z [books] error - GET  - 
+2024-03-24T12:55:19.492Z [books] error - POST  - 
+2024-03-24T12:56:29.878Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:57:19.376Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:57:25.351Z [books] error - GET  - 
+2024-03-24T12:57:25.380Z [books] error - GET  - 
+2024-03-24T12:57:25.420Z [books] error - POST  - 
+2024-03-24T12:57:43.041Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T12:57:50.405Z [books] error - GET  - 
+2024-03-24T12:57:50.435Z [books] error - GET  - 
+2024-03-24T12:57:50.477Z [books] error - POST  - 
+2024-03-24T12:59:59.923Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:00:12.625Z [books] error - GET  - 
+2024-03-24T13:00:12.651Z [books] error - GET  - 
+2024-03-24T13:00:12.692Z [books] error - POST  - 
+2024-03-24T13:00:12.706Z [books] error - PUT  - O preenchimento dos campos de id do cliente, nome, e-mail, senha, telefone e endereço é obrigatório.
+2024-03-24T13:01:58.985Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:02:24.250Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:02:54.136Z [books] error - GET  - 
+2024-03-24T13:02:54.162Z [books] error - GET  - 
+2024-03-24T13:02:54.204Z [books] error - POST  - 
+2024-03-24T13:02:54.223Z [books] error - PUT  - 
+2024-03-24T13:05:04.531Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:06:05.101Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:07:35.363Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:07:47.477Z [books] error - GET  - 
+2024-03-24T13:07:47.506Z [books] error - GET  - 
+2024-03-24T13:07:47.547Z [books] error - POST  - 
+2024-03-24T13:07:47.565Z [books] error - PUT  - 
+2024-03-24T13:07:54.780Z [books] error - GET  - 
+2024-03-24T13:07:54.814Z [books] error - GET  - 
+2024-03-24T13:07:54.862Z [books] error - POST  - 
+2024-03-24T13:07:54.886Z [books] error - PUT  - 
+2024-03-24T13:08:23.949Z [books] error - GET  - 
+2024-03-24T13:08:27.990Z [books] error - GET  - 
+2024-03-24T13:09:07.208Z [books] info - Servidor funcionando na porta 5678
+2024-03-24T13:09:23.233Z [books] error - GET  - 
+2024-03-24T13:13:35.517Z [books] info - GET /cliente
+2024-03-24T13:14:10.032Z [books] info - GET /cliente
+2024-03-24T13:14:24.178Z [books] info - GET /cliente
+2024-03-24T13:14:24.208Z [books] info - GET /cliente
+2024-03-24T13:14:24.305Z [books] info - POST /cliente - {"clienteId":12,"nome":"Gabrielly Marcela Lívia Ferreira","email":"gabrielly.marcela.ferreira@dinamicaconsultoria.com","senha":"hdsaLuqR5U","telefone":"92984237459","endereco":"Rua Santa Marta, 573, Manaus-AM"}
+2024-03-24T13:14:24.404Z [books] info - PUT /cliente - {"clienteId":8,"nome":"Tomás R. Peixoto","email":"tomas_peixoto@ltecno.com.br","senha":"pD67mYSDH9","telefone":"22984311722","endereco":"Rua Olívia Lopes, 293, Cabo Frio-RJ"}
+2024-03-24T13:14:36.150Z [books] info - GET /cliente
+2024-03-24T13:15:00.513Z [books] info - GET /cliente
+2024-03-24T13:15:15.717Z [books] info - GET /cliente
+2024-03-24T13:15:15.748Z [books] info - GET /cliente
+2024-03-24T13:15:15.835Z [books] info - POST /cliente - {"clienteId":13,"nome":"Gabrielly Marcela Lívia Ferreira","email":"gabrielly.marcela.ferreira@dinamicaconsultoria.com","senha":"hdsaLuqR5U","telefone":"92984237459","endereco":"Rua Santa Marta, 573, Manaus-AM"}
+2024-03-24T13:15:15.935Z [books] info - PUT /cliente - {"clienteId":8,"nome":"Tomás R. Peixoto","email":"tomas_peixoto@ltecno.com.br","senha":"pD67mYSDH9","telefone":"22984311722","endereco":"Rua Olívia Lopes, 293, Cabo Frio-RJ"}
+2024-03-24T13:15:23.569Z [books] info - GET /cliente

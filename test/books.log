@@ -1,0 +1,15 @@
+2024-03-22T01:03:48.626Z [books] error - POST  - column "created_at" of relation "clientes" does not exist
+2024-03-22T01:21:27.769Z [books] info - POST /cliente - {"clienteId":2,"nome":"Emily Raquel Melissa Novaes","email":"emily_novaes@yool.com.br","senha":"nYS0UcIIQa","telefone":"86999830953","endereco":"Rua Clementino Reis, 782, Teresina-PI"}
+2024-03-22T01:24:22.986Z [books] info - GET /cliente
+2024-03-22T01:26:42.387Z [books] info - GET /cliente
+2024-03-22T01:26:42.404Z [books] info - GET /cliente/1
+2024-03-22T01:29:13.228Z [books] info - GET /cliente
+2024-03-22T01:29:13.240Z [books] info - GET /cliente/1
+2024-03-22T01:29:13.255Z [books] error - PUT  - WHERE parameter "clientId" has invalid "undefined" value
+2024-03-22T01:37:42.755Z [books] info - GET /cliente
+2024-03-22T01:37:42.769Z [books] info - GET /cliente/1
+2024-03-22T01:37:42.840Z [books] info - PUT /cliente - {"clienteId":2,"nome":"Emily R. Melissa Novaes","email":"emily_novaes@yool.com.br","senha":"nYS0UcIIQa","telefone":"86999830953","endereco":"Rua Clementino Reis, 782, Teresina-PI"}
+2024-03-22T21:14:46.085Z [books] error - GET  - 
+2024-03-22T21:14:46.106Z [books] error - GET  - 
+2024-03-22T21:15:30.076Z [books] error - GET  - 
+2024-03-22T21:15:30.098Z [books] error - GET  - 

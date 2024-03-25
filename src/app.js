@@ -1,6 +1,7 @@
 import express from "express"
 import cors from "cors"
 import winston from "winston"
+import ClientRouter from "../routes/client.route.js";
 
 const app = express()
 
@@ -21,6 +22,12 @@ global.logger = winston.createLogger({
     myFormat
   )
 });
+
+app.use(express.json())
+
+app.use(cors())
+
+app.use("/cliente", ClientRouter)
 
 app.use((error, request, response, _next) => {
   logger.error(`${request.method} ${request.baseUrl} - ${error.message}`);

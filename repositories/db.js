@@ -8,7 +8,7 @@ const sequelize = new Sequelize({
   username: "postgres",
   password: "mysecretpassword",
   define: {
-    timestamp: false
+    timestamps: false
   }
 })
 
